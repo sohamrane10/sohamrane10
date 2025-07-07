@@ -68,8 +68,8 @@
 - 📫 Email: **ranesoham007@gmail.com**
 - 💼 [HackerRank](https://www.hackerrank.com/sohamrane10)
 - 🧠 [LeetCode](https://leetcode.com/sohamrane10/)
-- 🍽️ [CodeChef](https://www.codechef.com/users/sohamrane10)
-- 🌐 [Google Developer Profile](https://g.dev/sohamrane10)
+- 🍽️ [CodeChef](https://www.codechef.com/users/sohamrane)
+- 🌐 [Google Developer Profile](https://g.dev/sohamrane_dattameghecoe)
 
 ---
 
