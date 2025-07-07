@@ -36,10 +36,10 @@
 |-----------------------|--------------------|------------------|
 | 🐍 Python             | 8                  | PlantLensAI, Currency Converter, Fraud Detection |
 | ⚛️ React JS           | 5                  | Expense Tracker, Football Scoreboard, Notepad App |
-| 🧮 R Language         | 2                  | Social Network Analysis, R Stats Visualizer |
-| 🧠 Prolog             | 2                  | A* PathFinder (AI Project) |
+| 🧮 R Language         | 2                  | Social Network Analysis, Sentiment Analysis |
+| 🧠 Prolog             | 2                  | A* PathFinder (AI Project), Disease Detection |
 | 💻 HTML/CSS/JS        | 4                  | Bookstore Website, Profile Page |
-| 🐘 C++                | 2                  | Hotel DBMS, Student Result System |
+| 🐘 C++                | 2                  | Snake Game |
 
 > 🔄 Keep updating this table as you add new projects.
 
@@ -56,7 +56,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -66,7 +65,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/soham-rane-26716b2b6/)
 - 💻 [GitHub](https://github.com/sohamrane10)
-- 📫 Email: **sohamrane10@gmail.com**
+- 📫 Email: **ranesoham007@gmail.com**
 - 💼 [HackerRank](https://www.hackerrank.com/sohamrane10)
 - 🧠 [LeetCode](https://leetcode.com/sohamrane10/)
 - 🍽️ [CodeChef](https://www.codechef.com/users/sohamrane10)
